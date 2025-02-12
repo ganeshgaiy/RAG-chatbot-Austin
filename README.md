@@ -1,5 +1,7 @@
 
-# RAG Chatbot[aaia rag chat architecture inforgraphic.pdf](https://github.com/user-attachments/files/18761710/aaia.rag.chat.architecture.inforgraphic.pdf)
+# RAG Chatbot
+
+[aaia rag chat architecture inforgraphic.pdf](https://github.com/user-attachments/files/18761710/aaia.rag.chat.architecture.inforgraphic.pdf)
 
 
 *A Retrieval-Augmented Generation Chatbot powered by LangChain, Streamlit, and FastAPI.*
